@@ -11,7 +11,7 @@ I'm also not a great C programmer, having grown up with garbage collectors and o
 ## Installation
 
 ```
-go get github.com/micahwedemeyer/gphoto2go
+go get github.com/morgulbrut/gphoto2go
 ```
 
 ## Requirements
